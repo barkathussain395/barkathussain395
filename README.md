@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @barkathussain395
-- 👀 I’m interested in data analytics 
-- 🌱 I’m currently learning data analytics and business intelligence 
-- 💞️ I’m looking to collaborate on data analysis 
-- 📫 How to reach me to become an experienced data analyst
+- 👀 I’m interested in data analytics, Database Management System 
+- 🌱 I’m currently learning data analytics and business intelligence, Database Management System
+- 💞️ I’m looking to collaborate on data analysis and database management system
+- 📫 How to reach me to become an experienced data analyst and database developer
 - 😄 Pronouns:
 - ⚡ Fun fact:
 
